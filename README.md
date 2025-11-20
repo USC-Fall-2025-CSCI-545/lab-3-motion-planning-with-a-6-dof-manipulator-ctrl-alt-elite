@@ -1,10 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JB8SDF9g)
 ## Lab 3 – Motion Planning with RRT
 
-All required videos for Questions 3, 4, and 5 have been submitted in the `Videos/` folder.
-
-All videos were originally screen‑recorded on a Mac in `.mov` format and were converted to `.mp4` using `ffmpeg`. The original `.mov` videos are included in the `Videos/Original_MOV_Videos/` folder.
-
 ### Video Files
 
 | Question | File Name | Link |
